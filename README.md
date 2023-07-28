@@ -8,7 +8,7 @@ This repository contains a web application that provides a secure file upload fu
 - Periodically delete old files in the storage bucket to manage storage space.
 - Web interface to interact with the file upload functionality.
 
-## Getting Started
+## Getting Started (Locally)
 
 To get started with the Vercel-Supa-FastAPI-Storage, follow these steps:
 
