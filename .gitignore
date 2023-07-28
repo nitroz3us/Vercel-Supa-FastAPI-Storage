@@ -1,0 +1,9 @@
+# Ignore Mac system files
+.DS_store
+
+#Ignore __PYCACHE__ folder
+__pycache__
+
+# Ignore files related to API keys
+.env
+.vercel
